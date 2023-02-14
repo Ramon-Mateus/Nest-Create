@@ -24,7 +24,7 @@
 
 ## Description
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+Projeto feito com [Nest.js](https://github.com/nestjs/nest) que apenas faz a operação de create no banco de dados, mas usando inversão e injeção de dependências.
 
 ## Installation
 
